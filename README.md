@@ -147,6 +147,15 @@ Everything I find about zig.
 - [zigmod/docs at master · nektro/zigmod · GitHub](https://github.com/nektro/zigmod/tree/master/docs)
 - [mattnite/gyro: A Zig package manager with an index, build runner, and build dependencies.](https://github.com/mattnite/gyro)
 
+## Emulators
+
+- [Luukdegram/lion: Chip-8 Emulator written in Zig](https://github.com/Luukdegram/lion)
+- [agentultra/zig8: A Chip-8 emulator written in zig](https://github.com/agentultra/zig8)
+- [GrooveStomp/chip8-zig: A CHIP-8 emulator written in Zig](https://github.com/GrooveStomp/chip8-zig)
+- [emekoi/c8: chip 8 emulator in zig](https://github.com/emekoi/c8)
+- [paoda/zig8: Yet another CHIP-8 Emulator, now in Zig! - zig8 - Rekai's Gitea Instance](https://git.musuka.dev/paoda/zig8)
+- [sourgrasses/fishnchips: [WIP] 🐟 CHIP-8 emulator implemented in Zig for leeeearning](https://github.com/sourgrasses/fishnchips)
+
 ## Other
 
 - [desttinghim/jazmin: Zig implementation of Jasmin](https://github.com/desttinghim/jazmin)
