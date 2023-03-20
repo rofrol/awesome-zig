@@ -1403,3 +1403,8 @@ Everything I find about zig.
 - [How to multiply f32 and u32? - Help - Ziggit](https://ziggit.dev/t/how-to-multiply-f32-and-u32/413/15)
 - [bootradev/zig-fetch: a dependency management solution for zig projects!](https://github.com/bootradev/zig-fetch)
 - [Stay Together For The Kids - Andrew Kelley - Software You Can Love 2022 - YouTube](https://www.youtube.com/watch?v=stChOsejLEQ)
+- [rganesan/aoc-zig-2022: 2022 Advent Of Code solutions in Zig](https://github.com/rganesan/aoc-zig-2022)
+- [microsoft/mimalloc: mimalloc is a compact general purpose allocator with excellent performance.](https://github.com/microsoft/mimalloc)
+- [rdunnington (Reuben Dunnington)](https://github.com/rdunnington)
+- [daurnimator (daurnimator) / Repositories](https://github.com/daurnimator?tab=repositories&q=&type=&language=zig&sort=)
+- [Ryan Liptak - ryanliptak.com](https://www.ryanliptak.com/)
